@@ -5,7 +5,6 @@ phases:
     runtime-versions:
       nodejs: 18
     commands:
-      - cd react-calculator
       - npm install
 
   build:
